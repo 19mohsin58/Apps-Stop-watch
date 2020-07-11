@@ -1,0 +1,128 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #f7f7f7;
+
+}
+
+#boxWatch{
+	font-family: Broadway;
+    text-align: center;
+    color: #232324;
+
+  }
+
+
+#num{
+	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: white;
+}
+
+
+h2{
+	font-size: 40px;
+}
+
+
+#hours,#mSecs,#mints,#sec{
+	margin: 20px;
+}
+
+
+#btn1:hover{
+	background-color: #e00497;
+}
+
+#btn1{
+	background-color: #ff05ac;
+}
+
+#btn:hover{
+	background-color: #039e32;
+}
+
+#btn{
+	background-color: #05ad38;
+}
+
+#btn2{
+	background-color: #3e403f;
+}
+
+#btn2:hover{
+	background-color: #2f302f;
+}
+
+button{
+	width: 140px;
+	height: 40px;
+	border-radius: 10px;
+	margin: 5px;
+	border: 0px;
+	font-family: Cambria Math;
+	font-weight: bold ;
+	font-size: 20px;
+	color:white;
+	transition: .5s;
+	cursor: pointer;
+}
+
+h1{
+	box-shadow: 1px 1px  15px #cfcdca;
+	width: 110px;
+	height: 60px;
+	padding-top: 20px;
+	border-radius: 10px;
+	color: #ff05ac;
+	font-family: Trajan Pro;
+	background-color: white;
+}
+h5{
+	color: gray;
+	font-family: Trajan Pro;
+	font-size: 15px;
+	
+}
+
+
+.count{
+	text-align: center;
+	margin-top: 2cm;
+	font-family:Broadway; 
+}
+
+#p{
+	box-shadow: 1px 1px  15px #e6e3e3;
+	display: inline-block;
+	font-size: 30px;
+	font-family: Trajan Pro;
+	font-weight: bold;
+	color: #ff05ac;
+	width: 120px;
+	border-radius: 10px;
+	margin: 10px;
+	background-color: white;
+
+}
+
+h3{
+	font-size: 36px;
+	font-family: cambria math;
+	font-weight: bold;
+}
+
+#block{
+	width: 100%;
+	height: 80px;
+	background-color: #2b2b2a;
+	color: #ff9d00;
+	text-align: center;
+	align-items: center;
+	font-size: 28px;
+	font-family: cambria math;
+	padding-top: 2px;
+	margin-top:  50px;
+}
